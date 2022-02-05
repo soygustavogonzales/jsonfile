@@ -1,0 +1,32 @@
+{"price":
+	[
+		{
+			"purchaseStyleId":781,
+			"styleCode":"662POAZV22-103",
+			"oldValue":"16990",
+			"newValue":"16990"
+		},
+		{	"purchaseStyleId":779,
+			"styleCode":"662CSAZV22-100",
+			"oldValue":"54990",
+			"newValue":"40000"
+		}
+	],
+"imuSato":
+	[
+		{
+			"purchaseStyleId":781,
+			"styleCode":"662POAZV22-103",
+			"oldValue":-1,
+			"newValue":0
+		},
+		
+		{
+			"purchaseStyleId":779,
+			"styleCode":"662CSAZV22-100",
+			"oldValue":-1,
+			"newValue":0
+		}
+	]
+	
+}
